@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CompoundInterestCalculator
+comment1.params=principal\ rate\ periods
+comment1.target=double\ calculateCompoundInterest(double,\ double,\ int)
+numComments=2

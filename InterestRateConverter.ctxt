@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=InterestRateConverter
+comment1.params=nominalRate\ compoundingPeriods
+comment1.target=double\ nominalToEffective(double,\ int)
+numComments=2

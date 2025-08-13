@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ForceOfInterestCalculator
+comment1.params=interestRate
+comment1.target=double\ calculateForceOfInterest(double)
+numComments=2

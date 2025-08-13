@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AmortizationCalculator
+comment1.params=X\ r\ np
+comment1.target=double\ futureValueNoIncrease(double,\ double,\ int)
+comment2.params=X\ r\ j\ np
+comment2.target=double\ futureValueIncreaseEveryPayment(double,\ double,\ double,\ int)
+comment3.params=principal\ ratePerPeriod\ periods
+comment3.target=java.util.List\ generateLevelAmortizationTable(double,\ double,\ int)
+numComments=4
